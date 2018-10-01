@@ -1,3 +1,8 @@
+#### Name: Ahmet Oguz
+ - Place: Salt Lake City, Utah
+ - Bio: Software engineer
+ - GitHub: [asotronot](https://github.com/asotronot)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
